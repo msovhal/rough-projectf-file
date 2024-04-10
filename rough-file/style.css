@@ -1,0 +1,1213 @@
+/* input{
+    border: 2px solid black
+
+}
+h1{
+    text-align: center;
+    height: 40px;
+}
+body{
+    background-color: gray;
+    border-style: solid;
+} */
+
+/* *{
+    color: white;
+}
+div{
+    height: 60px;
+    background-color: black;
+}
+
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+} */
+
+/* #one{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    border-radius: 50%;
+    border-style: solid;
+}
+#two{
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    border-radius: 50%;
+    border-style: solid;
+}
+
+#three{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius: 50%;
+    border-style: solid;
+}
+
+#signal{
+    height: 550px;
+    width: 250px;
+    border: 2px solid black;
+    background-color: gray;
+    text-align: left;
+    padding: 5px 40px 5px 0px;
+} */
+/* *{
+    color: white;
+}
+#navbaar{
+    height: 60px;
+    background-color:black
+}
+
+#logo{
+    color: orange;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+button{
+    background-color: orange;
+}
+input{
+    color: black;
+} */
+/* This is my first CSS Assignment */
+/* .box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+#navbaar{
+    height: 60px;
+    background-color: black;
+}
+a{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+}
+button{
+    background-color: orange;
+}
+#logo{
+    color: orange;
+    font-weight: bold;
+}
+#content{
+    height: 600px;
+}
+footer{
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 20px;
+} */
+/* #box1{
+    height: 100px;
+    width: 200px;
+    font-size: 15px;
+    background-color: green;
+}
+#box2{
+    height: 50px;
+    width: 30%;
+    margin-left: 20%;
+    font-size: 2em;
+    background-color: yellow;
+    width:3rem; 
+}*/
+/* div{
+    height: 100px;
+    width: 100px;
+   border: 2px solid black;
+   display: inline-block;
+}
+#div4{
+    position: relative;
+    left: 20px;
+    top: 20px;
+    
+}
+#div2{
+    position: absolute;
+    background-image: url(https://th.bing.com/th/id/OIP.zb2bMkSw2aP62F8liqmASQHaE8?rs=1&pid=ImgDetMain);
+    background-size: cover;
+    
+} */
+/* #Me{
+    height: 200px;
+    width: 200px;
+    background-image: url("https://th.bing.com/th/id/OIP.anp0XQz24UeOEE5qf-5swQHaEo?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right: 0px;
+    top: 200px; 
+}*/
+/* #nevbaar{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style-type: none; 
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+} */
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    
+} */
+/* @keyframes Change {
+    0% {
+        left: 20px;
+        background-color: chocolate;
+    }
+    50% {
+        left: 200px;
+        background-color: green;
+    }
+    100% {
+        left: 300px;
+        background-color: yellow;
+    }
+} */ 
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: lightpink;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    border: 20px solid pink;
+    border-top: 20px solid black;
+    border-radius: 50%;
+    animation: Change 2s ease 0s 4 normal;
+}
+
+@keyframes Change {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+} */
+/* #nevbaar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+#logo{
+    font-size: 25px;
+    color: orange;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+}
+button{
+    background-color: orange;
+}
+.Input-Serach{
+    font-size: 15px;
+}
+.boxT{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 10px;
+}
+#content{
+    height: 600px;
+}
+footer{
+    height: 60px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+} */
+/* * {
+    margin: 0px;
+    font-family: arial;
+    border: border-box;
+} */
+/* My First Website */
+/* First Line Box */
+/* .nevbaar{
+    height: 60px;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.logo{
+    height: 50px;
+    width: 110px;
+    background-image: url(https://www.thesun.co.uk/wp-content/uploads/2022/02/Amazon-Logo-1024x426-1.png);
+    background-size: cover;
+}
+.nev-logo{
+    height: 50px;
+    width: 110px;
+
+}
+.border:hover{
+    border: 2px solid white;
+
+}
+.nev-address{
+    margin: 5px;
+}
+.nev-icon{
+    display: flex;
+}
+.add-one{
+    font-size: 0.75rem;
+    color: #cccccc;
+    margin-left: 15px;
+}
+.add-second{
+    font-size: 0.85rem;
+    font-family: 500;
+    color: #ffffff;
+    margin-left: 3px ;
+
+}
+.nev-search{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60px;
+    width: 600px;
+    border: transparent;
+    background-color: black;
+    border-radius: 4px;
+}
+.nev-search:hover{
+    border: 2px solid orange;
+}
+
+.search-select{
+    width: 50px;
+    height: 45px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+}
+.search_select:hover{
+    background-color: lightblue;
+}
+.search-input{
+    width: 100%;
+    height: 45px;
+    font-size: 1.1rem;
+}
+.search-input:hover{
+    background-color: lightblue;
+}
+.Search-Icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+    width: 50px;
+    color: black;
+    background-color: orange;
+}
+.Search-Icon:hover{
+    background-color: gray;
+}
+
+
+.sign-in{
+    color: white;
+    height: 40px;
+    padding-top: 15px ;
+}
+.mysign-in{
+    font-size: 12px;
+    color: white;
+    text-align: left;
+}
+
+.list{
+    display: flex;
+}
+.accountsign-in{
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 4px;
+    color: white;
+}
+
+
+.sign-In:hover{
+    border: 2px solid white;
+}
+.returns{
+    margin: 10px;
+    text-align: center;
+}
+.fir-ret{
+    font-size: 12px;
+    color: white;
+}
+.sec-ret{
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+}
+.Cart{
+    display: flex;
+}
+.cartone{
+    font-size: 35px;
+}
+.carttwo{
+    width: 50px;
+    display: flex;
+    align-items: flex-end;
+    color: white;
+
+}
+.cart-name{
+    color: white;
+}
+.pooja{
+    height: 50px;
+    width: 90px;
+}
+.pooja:hover{
+    border: 2px solid white;
+}
+.image{
+    height: 40px;
+    color: white;
+    background-color: #222f3d;
+    display: flex;
+}
+
+.box-image{
+    height: 40px;
+    width: 50px;
+    border: 2px solid transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-image:hover{
+    border: 2px solid white;
+}
+.box2-image{
+    margin-left: 4px;
+}
+/* Second Line Box */
+/* .panel{
+    height: 40px;
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center ;
+}
+.panel2 p{
+    color: white;
+    display: inline;
+    margin: 10px;
+    font-size: 14px;
+}
+.panel2{
+    width: 95%;
+}  */
+/* Third Line Box */
+/* .image{
+    height: 250px;
+    background-image: url(https://m.media-amazon.com/images/I/71Ie3JXGfVL._SX3000_.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.imagew{
+    height: 50px;
+    width: 50px;
+}
+.image2{
+    width: 80%;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: flex-end;
+    margin-bottom: 15px;
+}
+.image1{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-weight: 100;
+}
+.image3{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}  
+a{
+    color: blue;
+    margin-left: 5px;
+}  
+.Shopping-Section{
+    height: 630px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+    flex-wrap: wrap;
+
+}
+.box{
+    height: 280px ;
+    width: 20%;
+    border: 2px solid black;
+    background-color: white;
+    margin: 15px;
+}
+h2{
+    text-align: center;
+}
+.box1-image{
+    height: 200px;
+    background-image: url(https://wallpapercave.com/wp/wp1866272.jpg);
+    background-size: cover;
+    margin: 10px;
+}    
+p{
+    text-align: center;
+    color: #007185;
+}
+.box2-image{
+    height: 200px;
+    background-image: url(https://img.freepik.com/premium-photo/photo-colorful-folded-clothes_763111-31694.jpg);
+    background-size: cover;
+    margin: 10px;
+}
+.shopping-section1{
+    height: 630px;
+    background-color: #e2e7e6;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+
+.boxii{
+    height: 270px;
+    width: 20%;
+    border: 2px solid black;
+    margin: 15px;
+    background-color: white;
+}
+h2{
+    font-size: 21px;
+    text-align: center;
+}
+.boxii-image{
+    height: 80px;
+    width: 80px;
+    border: 1px solid black;
+    margin: 10px;
+    background-image: url(https://th.bing.com/th/id/R.d9dead73ab86e6e607d8175e24f7d87e?rik=6bsKCfPc%2bik4kA&riu=http%3a%2f%2fimage.sportsmansguide.com%2fadimgs%2fl%2f1%2f187688_ts.jpg&ehk=3KC3YbqeD6sPuc%2b7qqU2McAQzH8xcgsakyn2oVdLuOA%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+.bxo{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+} 
+.see{
+    text-align: center;
+    margin-top: 10px;
+
+}
+.contact{
+    height: 100px;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.p1{
+    text-align: left;
+    padding-left: 3px;
+    color: black;
+}
+ul{
+    margin: 10px;
+}
+ul a{
+    display: flex;
+
+}
+.c1{
+    color: black; */
+/* } */
+/* My First Website */
+/* My Second Website Project */
+/* .nevbaar{
+    height: 80px;
+    border: 2px solid black;   
+    border-top-left-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    height: 55px;
+    width: 65px;
+    background-image: url(https://www.pngall.com/wp-content/uploads/5/PayPal-Logo-PNG-Free-Image.png);
+    background-size: cover;
+    margin-left: 100px;
+    
+}
+.Mayur{
+    color: #376991;
+    font-weight: 700;
+    background-color: white;
+    border-radius: 16px;
+    font-size: 15px;
+    border-color: transparent;
+}
+.mayur:active{
+    background-color: red;
+}
+button{
+    border-color: transparent;
+    color: #376991;
+    font-weight: 700;
+    background-color: white;
+}
+.button:active{
+    background-color: yellow;
+}
+.nev-button{
+    width: 800px;
+    height: 55px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+.nev-button1{
+    height: 55px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button1{
+    margin-right: 30px;
+}
+.classa{
+    margin-right: 30px;
+    color: #376991;
+    font-weight: 700;
+    background-color: white;
+
+}
+.classb{
+    color: #376991;
+    font-weight: 700;
+
+}
+.nev-button2{
+    height: 55px;
+    width: 220px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+}
+.b1{
+    height: 45px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 16px;
+    color: blue;
+    font-weight: 700;
+}
+.b2{
+    height: 45px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    font-weight: 900;
+
+}
+
+.b1:active{
+    background-color: red;
+}
+.b2:active{
+    background-color: red;
+}    
+
+.hero-section{
+    height: 400px;
+    border: 2px solid black;
+    background-color: #1d0b3b;
+}
+.herosection1{
+    height: 40px;
+    width: 190px;
+    background-color: #f1ede6;
+    border-radius: 20px;
+}
+.mp{
+    height: 38px;
+    width: 90px;
+    border: 0.2px solid #f1ede8;
+    border-radius: 20px;
+}
+.mp1{
+    background-color: white;
+}
+.ht{
+    height: 150px;
+    width: 260px;
+    color: white;
+}
+.clab{
+    color: blue;
+    font-weight: 600;
+}
+.hd{
+    height: 40px;
+    width: 180px;
+    font-size: 1.2rem;
+    color: white;
+    font-weight: 400;
+}
+.gta{
+    height: 45px;
+    width: 130px;
+    color: blue;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+.gta a{
+    text-decoration: none;
+    color: blue;
+    font-weight: 600;
+}
+.hsa{
+    height: 380px;
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    position: relative;
+    left: 160px;
+}
+.css{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    border-top: 10px solid black;
+}
+
+.css:active {
+    background-color: green;
+    transform: skew(30deg);
+
+} */
+/* My Second Website Project */
+
+/* <!-- Double Practice --> */
+
+/* .nevbaar{
+    height: 90px;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nev-logo{
+    height: 60px;
+    width: 120px;
+    margin-left: 20px;
+}
+.logo{
+    height: 60px;
+    width: 100%;
+    background-image:  url(https://2.bp.blogspot.com/-DLKRCIYVTm0/UTbnKHkx-eI/AAAAAAAACwM/iqp8wyMvD_g/s1600/amazon-logo-15.jpg);
+    background-size: cover;
+}
+.border:hover{
+    border: 2px solid white;
+}
+.nev-address{
+    height: 40px;
+    width: 100px;
+    
+}
+.nev-add1{
+    color: #CCCCCC;
+    font-size: 12px;
+    margin-left: 15px;
+}
+.nev-add2{
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 700;
+}
+p{
+    margin: 2px;
+}
+.nev-serach{
+    height: 60px;
+    width: 750px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 4px;
+
+
+   
+}
+.search-select{
+    height: 40px;
+    width: 60px;
+    background-color: #e6e6e6;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+    border: none;
+}
+.search-input{
+    height: 40px;
+    width: 100%;
+    border: none;
+    
+}
+.serach-icon{
+    height: 40px;
+    width: 60px;
+    background-color: orange;
+    font-weight: 700;
+    color: black;
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+    border: none;
+}
+.sign-in{
+    height: 40px;
+    width: 110px;
+}
+.sign{
+    font-size: 12px;
+    color: #ffffff;
+
+}
+.in{
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 900;
+}
+.messgae1{
+    font-size: 12px;
+    color: #ffffff;
+}
+.message2{
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 900;
+}
+.ret{
+    height: 40px;
+    width: 80px;
+}
+.cartd{
+    display: flex;
+    height: 50px;
+    width: 75px;
+    margin-right: 20px;
+
+}
+.cart1{
+    font-size: 40px;
+}
+.cart{
+    display: flex;
+    align-items: flex-end;
+}
+.image{
+    height: 510px;
+    background-color: grey;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+.box{
+    height: 250px;
+    width: 300px;
+    border: 2px solid black;
+    background-color: white;
+}
+.image1{
+    height: 200px;
+    width: 220px;
+    border: 2px solid black;
+    background-image: url(https://th.bing.com/th/id/R.a7ab1e2cd6151f435d0dc088d29b94c6?rik=vF5UnCkEUqvDCA&riu=http%3a%2f%2fmoto.zombdrive.com%2fimages%2fbmc-motorcycles-2.jpg&ehk=mWeWG4R4YunQghChTLIGQxYR0xr%2f1N3zjPG%2bmuq0NIE%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+.box1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    text-align: center;
+}
+.shop{
+    text-align: center;
+} */
+/* .box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: yellow;
+    color: black;
+    margin-bottom: 5px;
+    text-align: center;
+} */
+/* .myclass{
+    background-color: black;
+}
+.myclass1{
+    background-color: white;
+} */
+
+
+
+/* will practice on it late */
+
+/* *{
+    text-align: center;
+    border: 0;
+}
+.Game{
+    height: 90px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    
+}
+.choice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 110px;
+    width: 110px;
+    border: 2px solid black;
+    margin: 25px;
+    border-radius: 50%;
+    background-color: black;
+}
+.choice:hover{
+    border: 2px solid white;
+}
+img{height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#ch1{
+
+}
+#ch2{
+    
+}
+#ch3{
+    
+}
+
+.choices{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.score{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.your{
+    margin-right: 5px;
+}
+.computer{
+    margin-left: 5px;
+}
+.catch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.catch1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 50px;
+    width: 180px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius:10px;
+}
+body{
+    background-color: gray;
+} */
+/* will practice on it late */
+
+/* .box{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border: 2px solid black;
+}
+
+.she{
+    background-color: green;
+    font-size: 20px;
+    color: white;
+
+}
+
+
+.me{
+    background-color: brown;
+} */
+
+/* Currency Converter Project */
+/* Rock Paper Scissors Game */
+/* *{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+h2{
+    text-align: center;
+}
+
+.container{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+}
+
+.dropdown{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 25px;
+}
+.select-conatiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+
+img{
+    width: 40px;
+}
+.amount{
+    padding-top: 25px;
+}
+i{
+    font-size: 30px;
+}
+button{
+    padding: 10px 0 10px 0;
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    width: 100%;
+}
+
+.msg{
+    margin: 20px 0 25px 0;
+}
+form input, msg{
+    width: 100%;
+}
+input{
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: none;
+    background-color: lightgrey;
+} */
+/* Currency Converter Project */
+
+/* *{
+    text-align: center;
+    border: 0;
+}
+.game{
+    height: 90px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 130px;
+    width: 130px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.box:hover{
+    background-color: black;
+}
+img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.choice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.score{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px; 
+}
+.yourscore{
+    padding-right: 10px;
+}
+.compscore{
+    padding-left: 10px;
+}
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: red;
+    height: 40px;
+    background-color: grey;
+    border-radius:10px;
+    display: inline;
+} */
+/* Rock Paper Scissors Game */
+
+/* Registration Form */
+/* body{
+    background-color: gray;
+}
+h2{
+    color: blue;
+    text-decoration: underline;
+}
+#text{
+    display: inline;
+} */
+/* Registration Form */
+
+
+
